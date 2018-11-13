@@ -1,18 +1,24 @@
-# femod
-https://mods.curse.com/bukkit-plugins/minecraft/femod
+=== Plugin made by: Frederick Ambo ===
 
+https://github.com/Ylacat/femod
 
-=== Plugin made by: Frederick Eggertsen ===
+The all new player auto message, gives the player a new cool feeling
 
-gazunga
+type a message like "get server info"
 
-The all new player auto messager gives the player a new cool feeling like a new "glades"
-
-type a message like " get server info"
+ 
 
 Description:
 
-The mod is used to give a very cool player feeling, The server just listen to the players text messages. The mod is still under building and you can leave a comment or give feedback on http://frederick.gazunga.net. If you want to be a tester or a programmer on the code just give me an email on: frederickeggertsen@hotmail.com
+The mod is used to give a very cool player feeling, The server just listen to the players text messages.
+
+It will reply with the server information to the player when entered.
+
+ 
+
+The mod is still under development and you can leave a comment or give feedback on https://tacaly.com/forum
+
+ 
 
 Installation Guide:
 
@@ -23,3 +29,26 @@ Installation Guide:
 3. start up you'r server. :3
 
 Enjoy the plugin :3
+
+ 
+
+TODO:
+
+    add some commands
+    give some op rights to config the mod
+    add some new colors
+    Update to last release of bukkit
+
+==== ChangeLog: ====
+
+Version 1.5
+
++Added more Colors +Added bug fixes
+
+Version 1.4
+
+-Deletet some bug code -Deletet Herobrine +Fixed a bug with the Listener
+
+Version 1.3
+
++Added the main code +Added RED and WHITE colors +Added my name to the code
