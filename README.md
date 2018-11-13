@@ -1,6 +1,6 @@
 === Plugin made by: Frederick Ambo ===
 
-https://github.com/Ylacat/femod
+https://github.com/Ylacat/femod - https://dev.bukkit.org/projects/femod
 
 The all new player auto message, gives the player a new cool feeling
 
